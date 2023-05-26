@@ -5,6 +5,9 @@ using namespace std;
 int waow(int a, int b){
 	return a+b;
 }
+bool sort(int a, int b){
+	return a>b
+}
 int Vvod() //ввод натурального положительного числа
 {
 	waow(1,2);
