@@ -2,7 +2,7 @@
 #include <windows.h>
 using namespace std;
 
-int Vvod() //ввод натурального положительного числs
+int Vvod() //ввод натурального положительного числа
 {
 	int a;
 	while (!(cin >> a) || (cin.peek() != '\n') || (a <= 0))
