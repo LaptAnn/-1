@@ -5,6 +5,7 @@ using namespace std;
 int Vvod() //ввод натурального положительного числа
 {
 	int a;
+	int b;
 	while (!(cin >> a) || (cin.peek() != '\n') || (a <= 0))
 	{
 		cin.clear();
