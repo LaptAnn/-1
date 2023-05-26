@@ -6,7 +6,7 @@ int waow(int a, int b){
 	return a+b;
 }
 bool sort(int a, int b){
-	return a>b
+	return a>b;
 }
 int Vvod() //ввод натурального положительного числа
 {
